@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This project is use to help with the back end for an internet (online)retail company. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collins418/-ORM-Challenge-E-commerce-Back-End.git"
+  },
+  "author": "LaTavya Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Collins418/-ORM-Challenge-E-commerce-Back-End/issues"
+  },
+  "homepage": "https://github.com/Collins418/-ORM-Challenge-E-commerce-Back-End#readme"
+}
