@@ -2,7 +2,8 @@
 
 ## Description :
 ```
-This project is use to help with the back end for an internet (online)retail company. It will solve the problem of allowing the internet(online) retail company to compete in the own industry.
+This project is use to help with the back end for an internet (online)retail company. 
+It will solve the problem of allowing the internet(online) retail company to compete in the own industry.
 ```
 
 ## Installion:
@@ -33,7 +34,9 @@ SO THAT my company can compete with other e-commerce companies
 ## Usage:
 
 ```
-When the internet company would like to display, create, update or delete an new product they will have to make fetch calls from the front end to request the back end server to execute said functions.
+When the internet company would like to display, create, update 
+or delete an new product they will have to make fetch calls from
+ the front end to request the back end server to execute said functions.
 ```
 
 ## Acceptance Critera
@@ -54,7 +57,8 @@ THEN I am able to successfully create, update, and delete data in my database
 ## Tests
 
 ```
-The app can be tested by using the insomnia app to get, create, update or delete categories, products or tags.
+The app can be tested by using the insomnia app to get, 
+create, update or delete categories, products or tags.
 ```
 
 ## Questions
