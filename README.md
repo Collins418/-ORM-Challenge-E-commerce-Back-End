@@ -8,6 +8,18 @@ This project is use to help with the back end for an internet (online)retail com
 ## Installion:
 
 ```
+Type `npm init` in the terminal to get package.json.
+
+Type `npm install` in the terminal to install dependencies for the project.
+
+Type `npm run seed` in the terminal to seed data to the database for the purpose of testing routes.
+
+Type `mysql -u root -p`, then `SOURCE schema.sql;` in the terminal to create `ecommerce_db` database.
+
+Type `npm start` to initiate the application.
+
+Note that there is no testing for this project!
+
 This company need to create a front end html page to connect with the server on the back end.
 ```
 
